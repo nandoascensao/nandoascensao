@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nandoascensao
+- 👀 I’m interested in books and movies
+- 🌱 I’m currently learning CS50P
+- 📫 How to reach me sobananinha@gmail.com
