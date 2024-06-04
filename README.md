@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @nandoascensao
 - 👀 I’m interested in books and movies
 - 🌱 I’m currently taking CS50P
+- 🗃 Taking my first steps learning SQL
 - 📫 How to reach me fernandoascensao98@gmail.com
